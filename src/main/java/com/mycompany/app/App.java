@@ -6,5 +6,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello small bug fix!" );
+        System.out.println( "Hello everyone in the universe!" );
     }
 }
